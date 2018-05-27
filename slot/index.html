@@ -91,7 +91,7 @@
 		            id: 'panel',
 		            position: 'left',
 		            size:sizePanel,
-		            templateUrl: 'https://mappadesio.infocitta.info/panel.html',
+		            templateUrl: 'https://maps.desio.app/slot/panel.html',
 		            controller: 'leftCtrl'
 		        })
 		        ;
@@ -103,7 +103,7 @@
 		NgMap.getMap().then(function(map) {
 			$scope.map = map;
 		});
-$http.get("https://mappadesio.infocitta.info/poi.json")
+$http.get("https://maps.desio.app/slot/poi.json")
     .then(function(response) {
         $scope.pois = response.data;
     });	
