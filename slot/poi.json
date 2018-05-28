@@ -121,6 +121,55 @@
             "Link": ""
           }
         ]
+      },
+      {
+        "Category": "Luoghi di culto",
+        "Icon": "church.png",
+        "Circle": true,
+        "Locations": [
+          {
+            "Address": "Parrocchia San Giovanni Battista",
+            "Latitude": 45.6179998,
+            "Longitude": 9.1945294,
+            "Note": "",
+            "Link": ""
+          },
+          {
+            "Address": "Parrocchia SS. Pietro e Paolo",
+            "Latitude": 45.6264751,
+            "Longitude": 9.2036974,
+            "Note": "",
+            "Link": ""
+          },
+          {
+            "Address": "Parrocchia S. Giorgio",
+            "Latitude": 45.6211811,
+            "Longitude": 9.2302619,
+            "Note": "",
+            "Link": ""
+          },
+          {
+            "Address": "Basilica Ss. Siro E Materno",
+            "Latitude": 45.6171712,
+            "Longitude": 9.208162,
+            "Note": "",
+            "Link": ""
+          },
+          {
+            "Address": "Parrocchia S. Pio X",
+            "Latitude": 45.6085343,
+            "Longitude": 9.2030637,
+            "Note": "",
+            "Link": ""
+          },
+          {
+            "Address": "Chiesa del Sacro Cuore",
+            "Latitude": 45.6176508,
+            "Longitude": 9.2208901,
+            "Note": "",
+            "Link": ""
+          }
+        ]
       }
     ]
   }
