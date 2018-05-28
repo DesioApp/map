@@ -6,54 +6,139 @@
       {
         "Category": "Scuole",
         "Icon": "school.png",
+        "Circle": true,
         "Locations": [
           {
-            "Address": "ISTITUTO COMPRENSIVO AGNESI",
-            "Latitude": 45.612646,
-            "Longitude": 9.199092,
-            "Note": "Via Gaetana Agnesi, 10, Desio, 20832 MB",
+            "Address": "Azienda speciale consortile \"Consorzio Desio-Brianza\"",
+            "Latitude": 45.61240346,
+            "Longitude": 9.20700632,
+            "Note": "VIA GALENO 45 DESIO",
             "Link": ""
           },
           {
-            "Address": "ISTITUTO COMPRENSIVO AGNESI",
-            "Latitude": 45.6189477,
-            "Longitude": 9.201109,
-            "Note": "Via Armando Diaz, 7, Desio, 20832 MB",
+            "Address": "E.C.Fo.P. Ente Cattolico Formazione Professionale Monza e  Brianza",
+            "Latitude": 45.61761741,
+            "Longitude": 9.21105348,
+            "Note": "VIA S. PIETRO 6 DESIO",
             "Link": ""
           },
           {
-            "Address": "ISTITUTO COMPRENSIVO PRATI c/o Scuola Rodari",
-            "Latitude": 45.614108,
-            "Longitude": 9.211503,
-            "Note": "Via Jacopo dal Verme, 20832 Desio MB",
+            "Address": "C.T.P. - Desio",
+            "Latitude": 45.61477859,
+            "Longitude": 9.21954208,
+            "Note": "PIAZZA P. NENNI 1 DESIO",
             "Link": ""
           },
           {
-            "Address": "ISTITUTO COMPRENSIVO PRATI c/o Scuola Rodari",
-            "Latitude": 45.620961,
-            "Longitude": 9.230927,
-            "Note": "Via Sant'Apollinare, 10, 20832 Desio MB",
+            "Address": "Primaria - Tagliabue",
+            "Latitude": 45.62131195,
+            "Longitude": 9.2308911,
+            "Note": "VIA S. APOLLINARE  DESIO",
             "Link": ""
           },
           {
-            "Address": "ISTITUTO COMPRENSIVO TOLSTOJ",
-            "Latitude": 45.6278697,
-            "Longitude": 9.2010009,
-            "Note": "Via Leone Tolstoi, 1, 20832 Desio MB",
+            "Address": "Primaria - Prati",
+            "Latitude": 45.61520537,
+            "Longitude": 9.21122192,
+            "Note": "VIA DAL VERME  DESIO",
             "Link": ""
           },
           {
-            "Address": "ISTITUTO COMPRENSIVO TOLSTOJ",
-            "Latitude": 45.620572,
-            "Longitude": 9.186417,
-            "Note": "Via Dolomiti, 50, 20832 Desio MB",
+            "Address": "Secondaria Primo Grado - Gianni Rodari",
+            "Latitude": 45.61477859,
+            "Longitude": 9.21954208,
+            "Note": "PIAZZA P. NENNI 1 DESIO",
             "Link": ""
           },
           {
-            "Address": "Scuola primaria paritaria Collegio Paola di Rosa",
-            "Latitude": 45.618071,
-            "Longitude": 9.210893,
-            "Note": "Via S. Pietro, 6, 20832 Desio MB",
+            "Address": "Infanzia - Dolomiti",
+            "Latitude": 45.62083404,
+            "Longitude": 9.19207864,
+            "Note": "VIA DOLOMITI  DESIO",
+            "Link": ""
+          },
+          {
+            "Address": "Primaria - Dolomiti",
+            "Latitude": 45.62044345,
+            "Longitude": 9.1859219,
+            "Note": "VIA DOLOMITI 50 DESIO",
+            "Link": ""
+          },
+          {
+            "Address": "Primaria - Tolstoj",
+            "Latitude": 45.62792533,
+            "Longitude": 9.20334819,
+            "Note": "VIA TOLSTOJ 1 DESIO",
+            "Link": ""
+          },
+          {
+            "Address": "Secondaria Primo Grado - Sandro Pertini",
+            "Latitude": 45.62835175,
+            "Longitude": 9.20583724,
+            "Note": "VIA MILANO 345 DESIO",
+            "Link": ""
+          },
+          {
+            "Address": "Infanzia - Santa Maria",
+            "Latitude": 45.61678113,
+            "Longitude": 9.20867008,
+            "Note": "PIAZZA S. MARIA 187 DESIO",
+            "Link": ""
+          },
+          {
+            "Address": "Primaria - Agnesi",
+            "Latitude": 45.61260015,
+            "Longitude": 9.19929905,
+            "Note": "VIA AGNESI 10 DESIO",
+            "Link": ""
+          },
+          {
+            "Address": "Primaria - Gavazzi",
+            "Latitude": 45.6191097,
+            "Longitude": 9.20476099,
+            "Note": "VIA DIAZ 7 DESIO",
+            "Link": ""
+          },
+          {
+            "Address": "Secondaria Primo Grado - Luigi Pirotta",
+            "Latitude": 45.61408665,
+            "Longitude": 9.19907344,
+            "Note": "VIA STADIO 13 DESIO",
+            "Link": ""
+          },
+          {
+            "Address": "L. Scientifico - Majorana",
+            "Latitude": 45.6118223,
+            "Longitude": 9.1952132,
+            "Note": "VIA AGNESI 20 DESIO",
+            "Link": ""
+          },
+          {
+            "Address": "L.Scientifico -   Fermi",
+            "Latitude": 45.6118223,
+            "Longitude": 9.1952132,
+            "Note": "VIA AGNESI 24 DESIO",
+            "Link": ""
+          },
+          {
+            "Address": "I.T. Tecnologico -  Fermi",
+            "Latitude": 45.6118223,
+            "Longitude": 9.1952132,
+            "Note": "VIA AGNESI 24 DESIO",
+            "Link": ""
+          },
+          {
+            "Address": "I.T. Tecnologico -  Fermi (serale)",
+            "Latitude": 45.6118223,
+            "Longitude": 9.1952132,
+            "Note": "VIA AGNESI 24 DESIO",
+            "Link": ""
+          },
+          {
+            "Address": "L. Classico - Majorana",
+            "Latitude": 45.6131659,
+            "Longitude": 9.193874,
+            "Note": "VIA LARGO AZZURRI D'ITALIA S.N. DESIO",
             "Link": ""
           }
         ]
