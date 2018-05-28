@@ -8,10 +8,52 @@
         "Icon": "school.png",
         "Locations": [
           {
-            "Address": "Scuola Prati",
-            "Latitude": 45.614119,
-            "Longitude": 9.212194,
-            "Note": "",
+            "Address": "ISTITUTO COMPRENSIVO AGNESI",
+            "Latitude": 45.612646,
+            "Longitude": 9.199092,
+            "Note": "Via Gaetana Agnesi, 10, Desio, 20832 MB",
+            "Link": ""
+          },
+          {
+            "Address": "ISTITUTO COMPRENSIVO AGNESI",
+            "Latitude": 45.6189477,
+            "Longitude": 9.201109,
+            "Note": "Via Armando Diaz, 7, Desio, 20832 MB",
+            "Link": ""
+          },
+          {
+            "Address": "ISTITUTO COMPRENSIVO PRATI c/o Scuola Rodari",
+            "Latitude": 45.614108,
+            "Longitude": 9.211503,
+            "Note": "Via Jacopo dal Verme, 20832 Desio MB",
+            "Link": ""
+          },
+          {
+            "Address": "ISTITUTO COMPRENSIVO PRATI c/o Scuola Rodari",
+            "Latitude": 45.620961,
+            "Longitude": 9.230927,
+            "Note": "Via Sant'Apollinare, 10, 20832 Desio MB",
+            "Link": ""
+          },
+          {
+            "Address": "ISTITUTO COMPRENSIVO TOLSTOJ",
+            "Latitude": 45.6278697,
+            "Longitude": 9.2010009,
+            "Note": "Via Leone Tolstoi, 1, 20832 Desio MB",
+            "Link": ""
+          },
+          {
+            "Address": "ISTITUTO COMPRENSIVO TOLSTOJ",
+            "Latitude": 45.620572,
+            "Longitude": 9.186417,
+            "Note": "Via Dolomiti, 50, 20832 Desio MB",
+            "Link": ""
+          },
+          {
+            "Address": "Scuola primaria paritaria Collegio Paola di Rosa",
+            "Latitude": 45.618071,
+            "Longitude": 9.210893,
+            "Note": "Via S. Pietro, 6, 20832 Desio MB",
             "Link": ""
           }
         ]
